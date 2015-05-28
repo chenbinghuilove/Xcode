@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    return NO;
+    return YES;
 }
 //失去焦点
 - (void)applicationWillResignActive:(UIApplication *)application {
