@@ -54,7 +54,7 @@
                                     <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="login" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Cry-su-nde"/>
+                                    <action selector="login" destination="vXZ-lx-hvc" eventType="touchUpInside" id="dDE-f5-6dC"/>
                                 </connections>
                             </button>
                         </subviews>
